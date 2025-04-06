@@ -1,0 +1,54 @@
+2025-04-05 23:56:47,361 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'D:\\ElderCareAssistant\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-05 23:56:47,361 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'D:\ElderCareAssistant\.venv\Lib\site-packages\comtypes\gen'
+2025-04-05 23:56:47,451 - ElderCare - INFO - ElderCare Voice Assistant initialized successfully
+2025-04-05 23:57:21,715 - ElderCare - INFO - Recognized speech: I'm good
+2025-04-05 23:57:22,553 - ElderCare - INFO - Received response from Groq API: That's great to hear, User! It's nice to check in with you on a Saturday evening. How was your day t...
+2025-04-05 23:57:42,480 - ElderCare - INFO - Received response from Groq API: Let's take a look at your health data together. I've reviewed your recent readings, and I notice tha...
+2025-04-06 00:00:34,074 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'D:\\ElderCareAssistant\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-06 00:00:34,074 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'D:\ElderCareAssistant\.venv\Lib\site-packages\comtypes\gen'
+2025-04-06 00:00:34,153 - ElderCare - INFO - ElderCare Voice Assistant initialized successfully
+2025-04-06 00:01:38,742 - ElderCare - INFO - Assistant spoke: Emergency mode activated. Preparing to contact Family Member. Please describe your emergency.
+2025-04-06 00:03:07,968 - ElderCare - INFO - Recognized speech: Hi how are you
+2025-04-06 00:03:08,515 - ElderCare - INFO - Received response from Groq API: Hello! I'm doing well, thank you for asking. My name is ElderCare, and I'm here to help you with you...
+2025-04-06 00:07:08,395 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'D:\\ElderCareAssistant\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-06 00:07:08,395 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'D:\ElderCareAssistant\.venv\Lib\site-packages\comtypes\gen'
+2025-04-06 00:07:08,484 - ElderCare - INFO - ElderCare Voice Assistant initialized successfully
+2025-04-06 00:07:51,328 - ElderCare - INFO - Saved user data to files
+2025-04-06 00:08:07,118 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'D:\\ElderCareAssistant\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-06 00:08:07,119 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'D:\ElderCareAssistant\.venv\Lib\site-packages\comtypes\gen'
+2025-04-06 00:08:07,218 - ElderCare - INFO - ElderCare Voice Assistant initialized successfully
+2025-04-06 00:08:17,547 - ElderCare - INFO - Saved user data to files
+2025-04-06 00:08:23,230 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'D:\\ElderCareAssistant\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-06 00:08:23,230 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'D:\ElderCareAssistant\.venv\Lib\site-packages\comtypes\gen'
+2025-04-06 00:08:23,321 - ElderCare - INFO - ElderCare Voice Assistant initialized successfully
+2025-04-06 00:08:29,847 - ElderCare - INFO - Saved user data to files
+2025-04-06 00:12:11,021 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'D:\\ElderCareAssistant\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-06 00:12:11,022 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'D:\ElderCareAssistant\.venv\Lib\site-packages\comtypes\gen'
+2025-04-06 00:12:11,107 - ElderCare - INFO - ElderCare Voice Assistant initialized successfully
+2025-04-06 00:12:47,683 - ElderCare - INFO - Recognized speech: hello
+2025-04-06 00:12:48,504 - ElderCare - INFO - Received response from Groq API: Hello there! I'm ElderCare, your health assistant. It's nice to meet you. How are you feeling today?...
+2025-04-06 10:06:20,889 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'D:\\ElderCareAssistant\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-06 10:06:20,889 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'D:\ElderCareAssistant\.venv\Lib\site-packages\comtypes\gen'
+2025-04-06 10:06:21,209 - ElderCare - INFO - ElderCare Voice Assistant initialized successfully
+2025-04-06 10:06:35,032 - ElderCare - INFO - Recognized speech: I'm good today
+2025-04-06 10:06:36,067 - ElderCare - INFO - Received response from Groq API: That's great to hear, User! I'm glad you're feeling well today. How's your blood sugar been lately? ...
+2025-04-06 10:06:58,122 - ElderCare - INFO - Saved user data to files
+2025-04-06 11:32:45,951 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'D:\\ElderCareAssistant\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-06 11:32:45,951 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'D:\ElderCareAssistant\.venv\Lib\site-packages\comtypes\gen'
+2025-04-06 11:32:46,039 - ElderCare - INFO - ElderCare Voice Assistant initialized successfully
+2025-04-06 11:32:58,444 - ElderCare - INFO - Recognized speech: I'm good today
+2025-04-06 11:32:59,192 - ElderCare - INFO - Received response from Groq API: That's great to hear, User! I'm happy you're feeling well today. Can you tell me a little bit about ...
+2025-04-06 11:37:48,306 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'D:\\ElderCareAssistant\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-06 11:37:48,306 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'D:\ElderCareAssistant\.venv\Lib\site-packages\comtypes\gen'
+2025-04-06 11:37:48,391 - ElderCare - INFO - ElderCare Voice Assistant initialized successfully
+2025-04-06 11:37:54,719 - ElderCare - INFO - Saved user data to files
+2025-04-06 11:39:07,383 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'D:\\ElderCareAssistant\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-06 11:39:07,383 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'D:\ElderCareAssistant\.venv\Lib\site-packages\comtypes\gen'
+2025-04-06 11:39:07,466 - ElderCare - INFO - ElderCare Voice Assistant initialized successfully
+2025-04-06 11:39:16,084 - ElderCare - INFO - Assistant spoke: Hello User! Welcome to ElderCare Assistant. How can I help you today?
+2025-04-06 11:39:28,742 - ElderCare - INFO - Recognized speech: I'm feeling good
+2025-04-06 11:39:29,299 - ElderCare - INFO - Received response from Groq API: That's wonderful to hear, User! It's great that you're feeling good today. Can you tell me a little ...
+2025-04-06 11:39:43,650 - ElderCare - INFO - Assistant spoke: That's wonderful to hear, User! It's great that you're feeling good today. Can you tell me a little bit about your morning routine? Did you take your medications as prescribed?
+2025-04-06 11:40:23,477 - ElderCare - INFO - Assistant spoke: Hello User. This is a test of the voice settings. How does this sound?
+2025-04-06 11:40:33,969 - ElderCare - INFO - Assistant spoke: Hello User. This is a test of the voice settings. How does this sound?
+2025-04-06 11:42:18,098 - ElderCare - INFO - Saved user data to files
